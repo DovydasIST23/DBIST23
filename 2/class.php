@@ -1,4 +1,5 @@
 <?php
+// v2 gihub
 $x = 3; // Pradinis NR.
 $t = 1; 
 $d = 2;
